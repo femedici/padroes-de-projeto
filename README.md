@@ -3,11 +3,11 @@
 
 ## Descrição
 
-O repositório consiste no desenvolvimento de um pequeno projeto colaborativo, onde o objetive é desenvolver e analisar diferentes padrões de projeto.
+O repositório consiste no desenvolvimento de um pequeno projeto colaborativo, onde o objetivo é desenvolver e analisar diferentes padrões de projeto.
 
 ## Estrutura do repositório 
 
-A estrutura utilizada nesse repositório é a de Multi-Módulos, onde cada módulo possui um serviço responsável, aqui cara módulo se da para cada tipo de padrão que será analizado pela equipe. 
+A estrutura utilizada nesse repositório é a de Multi-Módulos, onde cada módulo possui um serviço responsável, aqui cada módulo se da para cada tipo de padrão que será analizado pela equipe. 
 
 O código e estrutura de desenvolvimento é feita em `ipynb` para mesclar documentação e implementação em `python`. 
 
