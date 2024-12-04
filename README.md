@@ -21,4 +21,5 @@ Para contribuir no projeto, existe um documento que demonstra como contribuir co
 - [@joaoPAndrade](https://github.com/joaoPAndrade) 
 - [@MatCoitinho](https://github.com/MatCoitinho) 
 - [@femoran](https://github.com/feliperm17)
-- [@caioducati](https://github.com/Cast43) 
+- [@caioducati](https://github.com/Cast43)
+- [@caiogoia123](https://github.com/caiogoia123)
